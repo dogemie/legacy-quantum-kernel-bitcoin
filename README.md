@@ -1,1 +1,1 @@
-# Quantum_Kernel_Estimation-Bitcoin
+# legacy-quantum-kernel-bitcoin
